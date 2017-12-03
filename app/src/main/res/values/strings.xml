@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Class Work</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_text_test">Open Activity</string>
+    <string name="txt_second_activity">Second Activity</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">22.11.2017</string>
+    <string name="action_settings">Настройки</string>
+    <string name="btn_text_test">Открыть активность</string>
+</resources>
